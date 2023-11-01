@@ -10,3 +10,7 @@
 3.Distance Calculation
 
 細節在PPT
+
+Demo影片有兩個，分別是第三人稱視角與小車視角
+第三人稱視角：https://youtube.com/shorts/yM1yokcvMvI\
+小車視角：https://youtu.be/kNEzZkLiUOM
